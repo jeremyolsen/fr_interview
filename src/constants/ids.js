@@ -1,0 +1,4 @@
+export const ACCOUNT_ID = 'AA2E4916C77670BAA7DA84BD4'
+export const DEVICE_ID = 'D5061657E9A0D4B5715B018EBB6'
+export const TOKEN = 'Tbeb91d8275b875a60c25d8e9'
+export const SECRET = 'S0fc924dbcad0ab059985adc2'
